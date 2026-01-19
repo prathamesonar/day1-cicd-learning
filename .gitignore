@@ -1,0 +1,14 @@
+# .NET build folders
+bin/
+obj/
+
+# VS files
+.vs/
+
+# User files
+*.user
+*.suo
+
+# OS files
+Thumbs.db
+.DS_Store
