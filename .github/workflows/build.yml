@@ -1,0 +1,30 @@
+name: Day 1 - Build .NET App
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch: 
+
+jobs:
+  build-job:
+    runs-on: ubuntu-latest  
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '9.0.309' 
+
+    - name: Restore Dependencies
+      run: dotnet restore
+
+    - name: Build Application
+      run: dotnet build --no-restore
+
+    - name: Use Secret
+      env:
+        MY_API_KEY: ${{ secrets.DEMO_SECRET }}
+      run: echo "The secret is detected."

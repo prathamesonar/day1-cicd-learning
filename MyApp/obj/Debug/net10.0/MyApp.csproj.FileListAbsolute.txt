@@ -1,0 +1,14 @@
+C:\Users\PRATHAMESH\Desktop\Ava\day1-cicd-learning\MyApp\bin\Debug\net10.0\MyApp.exe
+C:\Users\PRATHAMESH\Desktop\Ava\day1-cicd-learning\MyApp\bin\Debug\net10.0\MyApp.deps.json
+C:\Users\PRATHAMESH\Desktop\Ava\day1-cicd-learning\MyApp\bin\Debug\net10.0\MyApp.runtimeconfig.json
+C:\Users\PRATHAMESH\Desktop\Ava\day1-cicd-learning\MyApp\bin\Debug\net10.0\MyApp.dll
+C:\Users\PRATHAMESH\Desktop\Ava\day1-cicd-learning\MyApp\bin\Debug\net10.0\MyApp.pdb
+C:\Users\PRATHAMESH\Desktop\Ava\day1-cicd-learning\MyApp\obj\Debug\net10.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRATHAMESH\Desktop\Ava\day1-cicd-learning\MyApp\obj\Debug\net10.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\PRATHAMESH\Desktop\Ava\day1-cicd-learning\MyApp\obj\Debug\net10.0\MyApp.AssemblyInfo.cs
+C:\Users\PRATHAMESH\Desktop\Ava\day1-cicd-learning\MyApp\obj\Debug\net10.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\PRATHAMESH\Desktop\Ava\day1-cicd-learning\MyApp\obj\Debug\net10.0\MyApp.dll
+C:\Users\PRATHAMESH\Desktop\Ava\day1-cicd-learning\MyApp\obj\Debug\net10.0\refint\MyApp.dll
+C:\Users\PRATHAMESH\Desktop\Ava\day1-cicd-learning\MyApp\obj\Debug\net10.0\MyApp.pdb
+C:\Users\PRATHAMESH\Desktop\Ava\day1-cicd-learning\MyApp\obj\Debug\net10.0\MyApp.genruntimeconfig.cache
+C:\Users\PRATHAMESH\Desktop\Ava\day1-cicd-learning\MyApp\obj\Debug\net10.0\ref\MyApp.dll
